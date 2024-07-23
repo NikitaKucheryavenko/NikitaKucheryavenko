@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @NikitaKucheryavenko
-- 👀 I’m interested in NOTHING
-- 🌱 I’m currently learning A LOT
-- 💞️ I’m looking to collaborate WITH NOBODY
-- 📫 How to reach me YOU CANNOT
-
-<!---
-NikitaKucheryavenko/NikitaKucheryavenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Novice Android developer.
+I have 1 year of experience as a C++ (junior) programmer. Higher education. I understand the principles of OOP, I have programming experience in Python, C# from a university program, and I have a good knowledge of the basics of programming in Java, Kotlin, SQL.
